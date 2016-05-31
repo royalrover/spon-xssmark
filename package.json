@@ -1,0 +1,15 @@
+{
+  "name": "spon-xssmark",
+  "version": "0.0.1",
+  "description": "标记代码中的xss source和sink",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@git.showjoy.net:yuxiu/spon-xssmark.git"
+  },
+  "keywords": [
+    "xss"
+  ],
+  "author": "yuxiu",
+  "license": "ISC"
+}
